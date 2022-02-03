@@ -1,0 +1,13 @@
+{
+    "name": "site-checker.org",
+    "description": "SiteChecker is a free SEO tool that provides recommendation for better search engine visibility.",
+    "version": "1.0",
+    "manifest_version": 2,
+    "permissions": [
+        "<all_urls>",
+        "tabs"
+    ],
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
